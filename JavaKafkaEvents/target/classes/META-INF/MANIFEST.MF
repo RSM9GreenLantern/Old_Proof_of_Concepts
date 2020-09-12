@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Kafka - producer-consumer
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: alex.von.stuelpnagel
+Implementation-Vendor-Id: com.ex.CENTENE.spring.kafka
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/producer-consumer
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,19 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+
+app:
+  topic:
+    record: Records
+    error: Errors
+
+logging:
+  level:
+    root: WARN
+    org.springframework.web: INFO
+    com.memorynotfound: DEBUG
+    
+server:
+  port: 8080
+  servlet:
+    contextPath: /SpringBootRestApi
